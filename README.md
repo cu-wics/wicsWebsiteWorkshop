@@ -1,5 +1,5 @@
 # WiCS - How to: Website Workshop 
-> This project contains a set of "materials or tools" and instructions (or suggestions) and a base code (which will be completed during the workshop)for participants who are interested in this workshop, which will be happening on March __, 2019. 
+> This project contains a set of "materials or tools" and instructions (or suggestions) and a base code (which will be completed during the workshop)for participants who are interested in this workshop, which will be happening on March __, 2019. This workshop is specifically targeted to those who have no to little experience with website making. 
 
 ## Installation 
 
@@ -10,10 +10,15 @@ No installation is required outside of a editor of your choice. Simply click on 
 - I will personally be using VS Code but any editor (even Notepad!) will work since we will simply be using HTML, CSS and vanilla JavaScript
 
 2. A Github Account (Optional)
-- If you are interested in putting your website live, you can do it for free using Github. If there is time (not likely sadly...), I will try to demonstrate using the terminal but there is very detailed instructions here (by the one and follow Github :] ): https://pages.github.com/
+- If you are interested in putting your website live, you can do it for free using Github. If there is time (not likely sadly...), I will try to demonstrate using the terminal but there is very detailed instructions here (by the one and only Github :] ): https://pages.github.com/
 
-3. Motivation
+3. Motivation to Learn
 - This is the most important tool you will need. Make sure you bring it! :)
+
+## Recommended Preparation 
+www.w3schools.com
+
+> I personally recommend this website to go over some basic HTML, CSS and JavaScript syntax. I will definetely be going over and commenting my code in addition to explaining the logic to website designing.   
 
 ## Usage example
 
