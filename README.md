@@ -1,5 +1,10 @@
 # WiCS - How to: Website Workshop 
+
+![alt WiCSWorkshopLogo](WiCSWorkshop.png)
+
 > This project contains a set of "materials or tools" and instructions (or suggestions) and a base code (which will be completed during the workshop)for participants who are interested in this workshop, which will be happening on March __, 2019. This workshop is specifically targeted to those who have no to little experience with website making. 
+
+<i> The accompanying slideshow will be posted soon </i>
 
 ## Installation 
 
