@@ -3,20 +3,17 @@
 
 ## Installation 
 
-No installation is required outside of a editor of your choice. 
+No installation is required outside of a editor of your choice. Simply click on clone or download. 
 
 ## Tools
-1. 
+1. An editor of your choice (to write code in)
+- I will personally be using VS Code but any editor (even Notepad!) will work since we will simply be using HTML, CSS and vanilla JavaScript
 
-```sh
-npm install my-crazy-module --save
-```
+2. A Github Account (Optional)
+- If you are interested in putting your website live, you can do it for free using Github. If there is time (not likely sadly...), I will try to demonstrate using the terminal but there is very detailed instructions here (by the one and follow Github :] ): https://pages.github.com/
 
-Windows:
-
-```sh
-edit autoexec.bat
-```
+3. Motivation
+- This is the most important tool you will need. Make sure you bring it! :)
 
 ## Usage example
 
