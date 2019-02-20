@@ -45,4 +45,4 @@ Displaying your personal, side projects and showcasting your persona in a beauti
 
 ## Other Questions? Need some help> 
 
-If you have any questions or assistance, please send it to: vu.monica.05@gmail.com with the subject line:  "WiCS How to: Website Workshop: Question". Since I'm still a student, I will do my best to reply.Feel free to use other method of communication (assuming you have my contact info for other types of media) as well!  
+If you have any questions or assistance, please send it to: vu.monica.05@gmail.com with the subject line: <b> "WiCS How to: Website Workshop: Question". </b> Since I'm still a student, I will do my best to reply as quickly as I can. Feel free to use other method of communication (assuming you have my contact info for other types of media) as well!  
