@@ -2,7 +2,7 @@
 
 ![alt WiCSWorkshopLogo](WiCSWorkshop.png)
 
-> This repository contains a list of "materials or tools,"  instructions (or suggestions) and a base code for participants who are interested in this workshop, which will be happening on March __, 2019.  This workshop is specifically targeted to those who have no to little experience with website making but every programmer of all skill level is more than welcome to come!  
+> This repository contains a list of "materials or tools,"  instructions (or suggestions) and a base code for participants who are interested in this workshop, which will be happening on March 27, 2019 from 6:00pm to 7:30pm.  This workshop is specifically targeted to those who have no to little experience with website making but every programmer of all skill level is more than welcome to come!  
 
 <i> The accompanying slideshow will be posted soon </i>
 
@@ -43,6 +43,6 @@ https://adam-marsden.co.uk/css-cheat-sheet
 
 Displaying your personal, side projects and showcasting your persona in a beautiful and organized manner. 
 
-## Other Questions? Need some help> 
+## Other Questions? Need some help?
 
 If you have any questions or assistance, please send it to: vu.monica.05@gmail.com with the subject line: <b> "WiCS How to: Website Workshop: Question". </b> Since I'm still a student, I will do my best to reply as quickly as I can. Feel free to use other method of communication (assuming you have my contact info for other types of media) as well!  
